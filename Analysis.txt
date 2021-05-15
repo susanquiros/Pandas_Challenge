@@ -1,0 +1,7 @@
+Heroes of Pymoli-Analysis
+
+through out the analysis of the dataset we can infer the following:
+
+1) 84% of the total players are males but females' average total purchase per person is $0.40 higher than males.
+2) 45% of the total players are between the age range of 20-24 years but the players with the highest average purchase price are between 35-39 years old.
+3) The most popular and profitable item is  "final Critic" folowed by "Oathbreaker, Last Hope of the Breaking Storm".
